@@ -30,9 +30,7 @@ Ejemplos:
 
 ## Última actualización
 
-- Se agregó documentación base del proyecto (Se añade este readme.md)
-- Se documentó el uso de metodología BEM.
-- Se añadió explicación general de tecnologías utilizadas.
+- Se modifico el navbar para dejarlo estatico al hacer Scroll
 
 ## Repositorio GitHub
 
