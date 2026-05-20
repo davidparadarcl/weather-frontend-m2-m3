@@ -30,7 +30,7 @@ Ejemplos:
 
 ## Última actualización
 
-- Se modifico el navbar para dejarlo estatico al hacer Scroll
+- "Se optimizó la transición (0.3s con ease) y la sombra (0 6px 14px) para que las cards tengan más profundidad y las animaciones sean más naturales."
 
 ## Repositorio GitHub
 
